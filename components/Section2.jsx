@@ -35,6 +35,7 @@ function Post({ data }) {
               height={440}
               className="rounded"
               alt="blog post"
+              
             />
           </a>
         </Link>
